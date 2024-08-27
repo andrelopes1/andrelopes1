@@ -35,7 +35,7 @@
 </a> 
 -->
 
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+<img src="https://github.com/andrelopes1/andrelopes1/blob/master/2nd%20arrow.gif?raw=true">
 
 
   <!-- Typing SVG by jrohitofficial - https://github.com/jrohitofficial/readme-typing-svg -->

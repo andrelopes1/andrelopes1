@@ -38,7 +38,7 @@
 <img src="https://github.com/andrelopes1/andrelopes1/blob/master/2nd%20arrow.gif?raw=true">
 
 
-  <!-- Typing SVG by jrohitofficial - https://github.com/jrohitofficial/readme-typing-svg -->
+  <!-- Typing SVG by andrelopes1 - https://github.com/andrelopes1/readme-typing-svg -->
 </p>
 
 ###

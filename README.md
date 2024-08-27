@@ -63,7 +63,7 @@
 ### 
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
-  <img src="https://profile-counter.glitch.me/jrohitofficial/count.svg"/>
+  <img src="https://profile-counter.glitch.me/andrelopes1/count.svg"/>
   </p>
 
 

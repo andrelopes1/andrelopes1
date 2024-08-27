@@ -1,18 +1,19 @@
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+
 
 <p align="center">
+        <p align="center">
     <img alt="Coding" width="200" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
+    </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=andrelopes1&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%">
-</p>
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=andrelopes1&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+    </a>
 
-<p align="center">
-    <a href="https://github.com/andrelopes1"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a>
-</p>
+<p align="center"><a href="https://github.com/andrelopes1"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
-<h3 align="center"><img src="https://github.com/andrelopes1/andrelopes1/blob/master/code.gif?raw=true" height="20"></h3>
+<h3 align="center"><img src="https://github.com/andrelopes1/andrelopes1/blob/master/code.gif?raw=true" height="20"</h3>
 
 <p align="center"><a href="https://github.com/andrelopes1"><img src="https://github.com/andrelopes1/andrelopes1/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>                                                                    
 
@@ -217,7 +218,6 @@
 </table>
 <br><br>
 </table>
-
 
 
 

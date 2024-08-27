@@ -106,6 +106,7 @@
   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
       <br>Django
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
       <br>Github
@@ -131,11 +132,11 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="tailwind" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android" />
       <br>Android
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
+        <img src="https://skillicons.dev/icons?i=jquery" width="40" height="40" alt="jQuery" />
       <br>jQuery
     </td>
   </tr>
@@ -147,7 +148,6 @@
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
       <br>Nodejs
-      </td>
       </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
@@ -162,16 +162,17 @@
       <br>WordPress
     </td>
               <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt="Vue" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt="Dotnet" />
       <br>Dotnet
+    </td>
   <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
       </a>
       <br>SQLite
     </td>
               <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="96">
@@ -179,9 +180,48 @@
       <br>PostgreSQL
     </td>
  </tr>
+ <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="Kotlin" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=perl" width="40" height="40" alt="Perl" />
+      <br>Perl
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rails" width="40" height="40" alt="Ruby on Rails" />
+      <br>Ruby on Rails
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=r" width="40" height="40" alt="R" />
+      <br>R
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=swift" width="40" height="40" alt="Swift" />
+      <br>Swift
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Go" />
+      <br>Go
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
+      <br>Linux
+    </td>
+ </tr>
 </table>
 <br><br>
 </table>
+
 
 
 

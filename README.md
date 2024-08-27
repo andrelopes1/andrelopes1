@@ -12,7 +12,7 @@
         <img src="https://github-widgetbox.vercel.app/api/profile?username=andrelopes1&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
-<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/andrelopes1"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 <h3 align="center"><img src="https://github.com/andrelopes1/andrelopes1/blob/master/code.gif?raw=true" height="20"</h3>
 
@@ -26,7 +26,7 @@
 
 <!--
 <a href="https://jrohit.com.np">
-    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Final.png" alt="Clickable Image">
+    <img src="https://raw.githubusercontent.com/andrelopes1/andrelopes1/master/Final.png" alt="Clickable Image">
 </a> 
 -->
 

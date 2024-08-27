@@ -25,7 +25,6 @@
 
 
 <!--
-<a href="https://jrohit.com.np">
     <img src="https://raw.githubusercontent.com/andrelopes1/andrelopes1/master/Final.png" alt="Clickable Image">
 </a> 
 -->
